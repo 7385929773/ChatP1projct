@@ -1,0 +1,23 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7385929773/RealtimeChat_web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/7385929773/RealtimeChat_web/issues"
+  },
+  "homepage": "https://github.com/7385929773/RealtimeChat_web#readme",
+  "description": ""
+}
